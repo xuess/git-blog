@@ -1,0 +1,12 @@
+.project
+/node_modules
+/dist
+/.sass-cache
+npm-debug.log**
+.DS_Store
+/config/config.js
+.happypack/**
+axd-vue/config/path.js
+bin/config/
+manifest.json
+.flowconfig
